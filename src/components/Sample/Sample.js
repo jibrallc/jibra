@@ -6,12 +6,6 @@ import CarsAgainstCCScreen from '../../assets/cacc.png';
 import PageMasterScreen from '../../assets/pm.png';
 import BCDMScreen from '../../assets/bcdm.png';
 
-// let cajunConnectionText = "Cajun Connection is a social media app made for young proffesionals to give ananayous feedback on each other's resumes, portfolio's, and proffesional work. It allows users to create profiles and form connections with other students/young proffesionals interested in growing their network."
-// let theProductManagementInternText = "The Product Management Intern is a website blog which features content on how what product management internships are like and how to get one. The website was built with React.js and is hosted for free by Github Pages."
-// let bcDiningMenusText = "BC Dining Menus is an iOS application which displays the menus of the 12 diffrent dining halls at BC. The app scrapes information from the hard-to-read BC Dining website and displays it in a friendly format."
-// let carsAgainstColonCancerText = "Cars Against Colon Cancer is an annual car show held in West Hartford by Ben Coady to raise money in memory of his grandmother. He needed a website to help spread the word of his event and give possible partners something to look at. It's built with React.js and uses Firebase for analyzing it's web traffic."
-// let pageMasterText = "Page Master"
-
 class Sample extends Component {
 
   openWebsite = () => {

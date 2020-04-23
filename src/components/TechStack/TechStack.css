@@ -1,0 +1,17 @@
+.techStack {
+    width: 80%;
+    height: 150px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.techStackHeader {
+    font-size: 40px;
+}
+
+.techStackText {
+    font-size: 20px;
+    margin-left: 20px;
+}

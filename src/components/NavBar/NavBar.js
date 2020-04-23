@@ -10,8 +10,15 @@ class NavBar extends Component {
     }
   }
 
-  scrollToAbout = () => {
-    let element = document.getElementById("about")
+  scrollToTechStack = () => {
+    let element = document.getElementById("techStack")
+    if (element != null) {
+      element.scrollIntoView()
+    }
+  }
+
+  scrollToContact = () => {
+    let element = document.getElementById("contact")
     if (element != null) {
       element.scrollIntoView()
     }
@@ -21,8 +28,8 @@ class NavBar extends Component {
     return (
       <div className="navBar">
         <h1 className="navBarButton" onClick={this.scrollToPastWork}>Past Work</h1>
-        <h1 className="navBarButton">Our Tech Stack</h1>
-        <h1 className="navBarButton">Contact</h1>
+        <h1 className="navBarButton" onClick={this.scrollToTechStack}>Our Tech Stacks</h1>
+        <h1 className="navBarButton" onClick={this.scrollToContact}>Contact</h1>
       </div>
     );
   }
