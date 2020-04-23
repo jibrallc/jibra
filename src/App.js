@@ -14,10 +14,12 @@ class App extends Component {
           <NavBar/>
         </div>
         <Sample title="Cars Against Colon Cancer" displayID="cacc"/>
-        {/* <Sample title="BC Dining Menus" displayID="bcdm"/> */}
+        <div className="appContainerTwo">
+          <Sample title="BC Dining Menus" displayID="bcdm"/>
+          <Sample title="Page Master" displayID="pm"/>
+          <Sample title="Cajun Connection" displayID="cc"/>
+        </div>
         <Sample title="The Product Management Intern" displayID="pmi"/>
-        <Sample title="Page Master" displayID="pm"/>
-        <Sample title="Cajun Connection" displayID="cc"/>
       </div>
     );
   }
