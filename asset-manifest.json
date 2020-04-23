@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jibra/static/css/main.f78bf270.chunk.css",
+    "main.js": "/jibra/static/js/main.13a4de5c.chunk.js",
+    "main.js.map": "/jibra/static/js/main.13a4de5c.chunk.js.map",
+    "runtime-main.js": "/jibra/static/js/runtime-main.f4d15cb1.js",
+    "runtime-main.js.map": "/jibra/static/js/runtime-main.f4d15cb1.js.map",
+    "static/js/2.a755fc80.chunk.js": "/jibra/static/js/2.a755fc80.chunk.js",
+    "static/js/2.a755fc80.chunk.js.map": "/jibra/static/js/2.a755fc80.chunk.js.map",
+    "index.html": "/jibra/index.html",
+    "precache-manifest.fad38a080be305b5a7c7cfc7b1a3dfd1.js": "/jibra/precache-manifest.fad38a080be305b5a7c7cfc7b1a3dfd1.js",
+    "service-worker.js": "/jibra/service-worker.js",
+    "static/css/main.f78bf270.chunk.css.map": "/jibra/static/css/main.f78bf270.chunk.css.map",
+    "static/js/2.a755fc80.chunk.js.LICENSE.txt": "/jibra/static/js/2.a755fc80.chunk.js.LICENSE.txt",
+    "static/media/bcdm.png": "/jibra/static/media/bcdm.2bcc8c84.png",
+    "static/media/cacc.png": "/jibra/static/media/cacc.4d16278f.png",
+    "static/media/cc.png": "/jibra/static/media/cc.6e862d88.png",
+    "static/media/pm.png": "/jibra/static/media/pm.d8f74582.png",
+    "static/media/tpmi.png": "/jibra/static/media/tpmi.182f2cd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d15cb1.js",
+    "static/js/2.a755fc80.chunk.js",
+    "static/css/main.f78bf270.chunk.css",
+    "static/js/main.13a4de5c.chunk.js"
+  ]
+}
