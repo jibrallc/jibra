@@ -16,8 +16,8 @@ class Sample extends Component {
       window.open("https://theproductmanagementintern.com/")
     } else if (displayID === "cacc") {
       window.open("http://carsagainstcc.com/")
-    } else if (displayID === "https://apps.apple.com/tt/app/page-master/id1474563270") {
-      window.open("")
+    } else if (displayID === "pm") {
+      window.open("https://apps.apple.com/tt/app/page-master/id1474563270")
     } else if (displayID === "bcdm") {
       window.open("https://apps.apple.com/us/app/bc-dining-menus/id1459940062")
     }
