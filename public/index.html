@@ -40,4 +40,30 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+      https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyAc0EduV2mDVUqLBJE9JpECv2ATD1plnRo",
+      authDomain: "jibra-957d2.firebaseapp.com",
+      databaseURL: "https://jibra-957d2.firebaseio.com",
+      projectId: "jibra-957d2",
+      storageBucket: "jibra-957d2.appspot.com",
+      messagingSenderId: "474797684754",
+      appId: "1:474797684754:web:f4796053b90fb7cd2980cb",
+      measurementId: "G-0KMDTCD0ZV"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+
+
 </html>
