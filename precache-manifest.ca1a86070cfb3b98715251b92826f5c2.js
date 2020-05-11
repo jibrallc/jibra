@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3a8b440abc3b75b3cacf1295c7ed8af",
+    "revision": "bb69447c03a5c7a77956ba75adad422e",
     "url": "/jibra/index.html"
   },
   {
