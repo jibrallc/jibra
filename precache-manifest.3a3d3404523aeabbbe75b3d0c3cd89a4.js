@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb69447c03a5c7a77956ba75adad422e",
+    "revision": "9e4f5229a4765b5026df5f4acb3ecb43",
     "url": "/jibra/index.html"
   },
   {
-    "revision": "eae4aa3b421446138e58",
+    "revision": "f2375ac3a6248b9444a0",
     "url": "/jibra/static/css/main.fb41c5e6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jibra/static/js/2.a755fc80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eae4aa3b421446138e58",
-    "url": "/jibra/static/js/main.06537e3f.chunk.js"
+    "revision": "f2375ac3a6248b9444a0",
+    "url": "/jibra/static/js/main.aaae5897.chunk.js"
   },
   {
     "revision": "1d046741031329646415",

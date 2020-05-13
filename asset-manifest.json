@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jibra/static/css/main.fb41c5e6.chunk.css",
-    "main.js": "/jibra/static/js/main.06537e3f.chunk.js",
-    "main.js.map": "/jibra/static/js/main.06537e3f.chunk.js.map",
+    "main.js": "/jibra/static/js/main.aaae5897.chunk.js",
+    "main.js.map": "/jibra/static/js/main.aaae5897.chunk.js.map",
     "runtime-main.js": "/jibra/static/js/runtime-main.f4d15cb1.js",
     "runtime-main.js.map": "/jibra/static/js/runtime-main.f4d15cb1.js.map",
     "static/js/2.a755fc80.chunk.js": "/jibra/static/js/2.a755fc80.chunk.js",
     "static/js/2.a755fc80.chunk.js.map": "/jibra/static/js/2.a755fc80.chunk.js.map",
     "index.html": "/jibra/index.html",
-    "precache-manifest.ca1a86070cfb3b98715251b92826f5c2.js": "/jibra/precache-manifest.ca1a86070cfb3b98715251b92826f5c2.js",
+    "precache-manifest.3a3d3404523aeabbbe75b3d0c3cd89a4.js": "/jibra/precache-manifest.3a3d3404523aeabbbe75b3d0c3cd89a4.js",
     "service-worker.js": "/jibra/service-worker.js",
     "static/css/main.fb41c5e6.chunk.css.map": "/jibra/static/css/main.fb41c5e6.chunk.css.map",
     "static/js/2.a755fc80.chunk.js.LICENSE.txt": "/jibra/static/js/2.a755fc80.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f4d15cb1.js",
     "static/js/2.a755fc80.chunk.js",
     "static/css/main.fb41c5e6.chunk.css",
-    "static/js/main.06537e3f.chunk.js"
+    "static/js/main.aaae5897.chunk.js"
   ]
 }
