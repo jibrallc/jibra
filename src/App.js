@@ -15,13 +15,11 @@ class App extends Component {
           <Header/>
           <NavBar/>
         </div>
-        <Sample displayID="cacc"/>
         <div className="appContainerTwo">
           <Sample title="BC Dining Menus" displayID="bcdm"/>
           <Sample title="Page Master" displayID="pm"/>
           <Sample title="Cajun Connection" displayID="cc"/>
         </div>
-        <Sample title="The Product Management Intern" displayID="pmi"/>
         <TechStack/>
         <Contact/>
       </div>
